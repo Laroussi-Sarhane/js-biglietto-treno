@@ -8,15 +8,15 @@ va applicato uno sconto del 40% per gli over 65.
 
 ## svolgimento
 
-1. chiedo con un prompt eta del del passeggero e salviamo in una variabile
+1. // Chiedi all'utente il numero di chilometri e l'età del passeggero
 ***
-2. chiedo con un prompt i chilometri che deve percorrere e salviamo in una variabile
+2. Calcola il prezzo del biglietto
 ***
-3. calcolo il prezzo del biglietto in base ai kilometri
+3. Applica gli sconti in base all'età
 ***
-4. ipotizzo eta diverse degli user 
+4. Sconto del 20% per i minorenni
 ***
-5. applico lo sconto del 20 percento al prezzo del biglietto quando abbiamo un minorenne
+5.Sconto del 40% per gli over 65
 ***
-6. applico lo sconto del 40 percento al prezzo del biglietto quando abbiamo un vecchio over 65
+6. l'output con massimo due decimali
 ***
