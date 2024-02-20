@@ -21,6 +21,8 @@ prezzoTotale = prezzoTotale.toFixed(2);
 
 // Mostra il risultato all'utente
 alert("Il prezzo totale del viaggio è: " + prezzoTotale + " €");
+
+
  
 document.getElementById('biglietto-price').innerHTML=`
 <p>il prezzo da pagare ${prezzoTotale}, </p>
