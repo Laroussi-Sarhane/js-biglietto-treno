@@ -14,7 +14,9 @@ va applicato uno sconto del 40% per gli over 65.
 ***
 3. calcolo il prezzo del biglietto in base ai kilometri
 ***
-4. applico lo sconto del 20 percento al prezzo del biglietto quando abbiamo un minorenne
+4. ipotizzo eta diverse degli user 
 ***
-5. applico lo sconto del 40 percento al prezzo del biglietto quando abbiamo un vecchio over 65
+5. applico lo sconto del 20 percento al prezzo del biglietto quando abbiamo un minorenne
+***
+6. applico lo sconto del 40 percento al prezzo del biglietto quando abbiamo un vecchio over 65
 ***
